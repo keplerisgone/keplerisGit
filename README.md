@@ -22,4 +22,10 @@ Github page를 이용해 블로그를 만드려고 했으나, 걷잡을 수 없�
 ### Git learn
 
 원래 learn Git이었지만, 어쩌다보니 그렇게 됐습니다.  
-책 "Do it" 시리즈를 보고 공부한 내용을 담았습
+책 "Do it" 시리즈를 보고 공부한 내용을 담았습니다.
+
+### << What's up next?
+
+python module - os, dotenv  
+OPP  
+C++ - Memory (시험범위임)  
